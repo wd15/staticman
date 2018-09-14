@@ -5,5 +5,7 @@ config.json
 config.*.json
 !config.test.json
 !config.example.json
+!config.development.json
+!config.production.json
 node_modules/
 staticman_key
