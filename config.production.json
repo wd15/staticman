@@ -1,6 +1,6 @@
 {
   "gitlabToken": process.env.GITLAB_TOKEN,
   "githubToken": process.env.GITHUB_TOKEN,
-    "rsaPrivateKey": JSON.stringify(process.env.RSA_PRIVATe_KEY),
-    "port": 8080
+  "rsaPrivateKey": JSON.stringify(process.env.RSA_PRIVATE_KEY),
+  "port": 8080
 }
